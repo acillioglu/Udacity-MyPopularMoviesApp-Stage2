@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="collapHeight">350dp</dimen>
+    <dimen name="imgBackHeight">350dp</dimen>
+    <dimen name="cvMarginBot">16dp</dimen>
+    <dimen name="cvElev">5dp</dimen>
+    <dimen name="llPadding">12dp</dimen>
+    <dimen name="ivPosterWidth">150dp</dimen>
+    <dimen name="ivPosterHeight">300dp</dimen>
+    <dimen name="llMarginLeft">8dp</dimen>
+</resources>
