@@ -39,6 +39,10 @@ public class Movie {
         this.release_date = release_date;
     }
 
+    public Movie() {
+
+    }
+
     public Integer getId() {
         return id;
     }

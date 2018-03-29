@@ -13,6 +13,12 @@
         android:title="Sort by Top Rated">
     </item>
 
+    <item
+        android:orderInCategory="3"
+        android:id="@+id/sort_by_favourites"
+        android:title="Sort by Favourites"
+        />
+
 
 
 </menu>

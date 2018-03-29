@@ -5,11 +5,17 @@
     
     <string name="main_str_interneterror">No Internet Connection</string>
     <string name="main_str_tryagain">TRY AGAIN</string>
+    <string name="main_str_nofavmovie">Favourites are empty</string>
+    <string name="mainscreenmovies">MainScreenMovies</string>
 
     <!-- Activity Detail-->
     <string name="vote_average">Vote Average</string>
     <string name="release_date">Release Date</string>
     <string name="plot_summary">Plot Summary</string>
+    <string name="reviews">Reviews</string>
+    <string name="trailers">Trailers</string>
+    <string name="addedtofavourites">Added to Favourites</string>
+    <string name="removedfromfavourites">Removed from Favourites</string>
 
 
 </resources>

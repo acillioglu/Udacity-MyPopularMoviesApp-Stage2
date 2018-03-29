@@ -24,6 +24,11 @@
         <activity
             android:name=".activity.DetailActivity"
             android:theme="@style/AppTheme.NoActionBar"></activity>
+
+        <provider
+            android:name="com.example.android.mypopularmoviesapp.DataSqlite.MovieContentProvider"
+            android:authorities="com.example.android.mypopularmoviesapp"
+            android:exported="false"/>
     </application>
 
 </manifest>
